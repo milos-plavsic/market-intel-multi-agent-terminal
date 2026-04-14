@@ -2,3 +2,6 @@ langgraph
 pandas
 yfinance
 python-dotenv
+pytest
+fastapi
+uvicorn[standard]
