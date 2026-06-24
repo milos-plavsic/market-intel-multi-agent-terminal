@@ -19,7 +19,7 @@ fastapi==0.110.0
 uvicorn[standard]==0.29.0
 
 # Market data
-yfinance>=0.2.40
+yfinance>=0.2.66
 
 # Data science
 pandas==2.2.1
